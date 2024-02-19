@@ -36,7 +36,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #444444;
 }
 
 .main-section {
@@ -78,12 +78,12 @@ ol li {
     font-weight: 200;
     font-size: 14px;
     text-decoration-line: underline;
-    color: #595959;
+    color: #444444;
     margin-left: 10px;
 }
 
 .projects-item a {
-    color: #595959;
+    color: #444444;
 }
 
 .projects-time {
@@ -99,7 +99,7 @@ ol li {
     font-family: 'Montserrat';
     font-style: normal;
     font-size: 12px;
-    color: #595959;
+    color: #444444;
     margin-left: 10px;
 }
 
@@ -138,7 +138,7 @@ ol li {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #444444;
 }
 .work-experience-duties {
     padding-left: 18px;
@@ -180,13 +180,13 @@ ol li {
 /* Sidebar styles */
 
 .sidebar-section {
-    background-color:#1E2939;
-    width: 370px;
+    background-color:#260a31;
+    width: 340px;
 }
 
 .sidebar-section img {
-    width: 370px;
-    height: 354px;
+    width: 340px;
+    height: 450px;
     margin-top: 40px;
 }
 
@@ -224,7 +224,7 @@ ol li {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color:#ffb3b3;
+    color:#ec4747;
 }
 
 .sidebar-list {
